@@ -5,7 +5,7 @@ Files:
 2. visits_log_us.csv
 3. orders_log_us.csv 
 4. costs_us.csv - databases (provided by Yandex)
-3. business_analysis.ipynb - Jupiter Notebook with code and results
+5. business_analysis.ipynb - Jupiter Notebook with code and results
 
 Python libraries:
 pandas
