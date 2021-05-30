@@ -1,1 +1,14 @@
+My first student project in Yandex.Practikum.
+The main goal was to start playing with data, necessary steps before analysis.
+The project is about default rates of different groups.
+It consists of 3 files:
+1. readme
+2. credit_scoring_eng.csv - database (provided by Yandex)
+3. datapreprocessing.ipynb - Jupiter Notebook with code and results
 
+Python libraries:
+pandas
+numpy
+collections/Counter
+nltk
+nltk.stem/WordNetLemmatizer
