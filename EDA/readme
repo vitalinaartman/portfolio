@@ -5,4 +5,12 @@ The project is about advertising for real estate marker.
 Files:
 1. readme
 2. real_estate_data_us.csv - database (provided within the course)
-3. exploratorydatanalysis.ipynb - 
+3. exploratorydatanalysis.ipynb - upiter Notebook with code and results
+
+
+Python libraries:
+pandas
+numpy
+calendar
+seaborn
+matplotlib.pyplot
