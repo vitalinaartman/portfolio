@@ -1,0 +1,18 @@
+Compiling all that I have learned before to make up an analytical story
+
+Files:
+1. readme
+2. rest_data_us.cs - database (provided within the course)
+3. storytelling.ipynb - Jupiter Notebook with code and results
+
+
+Python libraries:
+pandas
+numpy
+seaborn
+matplotlib
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
+usaddress (may need additional install)
+matplotlib.ticker/StrMethodFormatter
