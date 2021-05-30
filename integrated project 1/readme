@@ -1,1 +1,15 @@
+First integrated project after 4 course sprints on data preprocessing, EDA and testing hypothesis
+The goal of the project is to investigate video games sales across different platforms and countries
+Files:
+1. readme
+2. games.csv - database (provided by Yandex)
+3. integrated_project_1.ipynb - Jupiter Notebook with code and results
 
+Python libraries:
+pandas
+numpy
+squarify
+seaborn
+matplotlib
+matplotlib.pyplot
+scipy/stats
