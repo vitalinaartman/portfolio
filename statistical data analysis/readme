@@ -11,6 +11,7 @@ Files:
 
 Python libraries:
 pandas
+pandas_profiling (may need additional install)
 numpy
 functools/reduce
 math
