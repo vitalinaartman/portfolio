@@ -1,1 +1,17 @@
+Project devoted to business metrics and KPIs.
+The goal of the project is to to study customers behavior and find the most effective sources for Yandex.Afisha
+Files:
+1. readme
+2. visits_log_us.csv - database (provided by Yandex)
+3. business_analysis.ipynb - Jupiter Notebook with code and results
 
+Python libraries:
+pandas
+numpy
+seaborn
+matplotlib
+matplotlib.pyplot
+scipy/stats
+datetime import datetime/ timedelta
+pandas.plotting / register_matplotlib_converters
+register_matplotlib_converters()
