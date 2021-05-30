@@ -1,1 +1,20 @@
+A/B testing for online store
 
+The project is to work closely with hypotheses, their prioritization and testing
+Files:
+1. readme
+2. hypotheses_us.csv
+3. orders_us.csv 
+4. visits_us.csv - databases (provided within the course)
+3. making_decisions.ipynb - upiter Notebook with code and results
+
+
+Python libraries:
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+scypt/stats
+datetime
+pandas.plotting/register_matplotlib_converters
+register_matplotlib_converters()
